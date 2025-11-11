@@ -66,17 +66,6 @@ Ao abrir a aplicação, alguns pontos a testar:
 sudo apt-get install python3-tk
 ```
 
-- Se a aplicação lançar erros ao abrir a visualização da árvore, verifique se os arquivos da pasta `gui/` estão íntegros (especialmente `draw_tree.py`).
-
-## Estrutura do projeto
-
-Arquivos/dirs principais:
-
-- `main.py` — ponto de entrada; popula a árvore com exemplos e abre a GUI.
-- `arvore/` — implementação da árvore rubro-negra (`red_black_tree.py`, `node.py`).
-- `data/livros_exemplo.py` — lista de livros usados como exemplo (inseridos automaticamente ao iniciar).
-- `gui/` — interfaces gráficas (janela principal, formulários e visualização da árvore).
-
 ## Capturas de tela
 
 - **Home**  
