@@ -1,4 +1,4 @@
-# Árvore rubro-negra - Buscador de livros
+# Árvore Rubro-Negra - Buscador de livros
 
 ## Alunas
 | Matrícula | Nome |
@@ -78,7 +78,7 @@ sudo apt-get install python3-tk
 ## Gravação 
 <br>
 
-[![Assista ao vídeo](https://img.youtube.com/vi/SvSuG8IaGgk/0.jpg)](https://www.youtube.com/watch?v=SvSuG8IaGgk)
+[![Assista ao vídeo](https://img.youtube.com/vi/YL7AZk3o0g4/0.jpg)](https://www.youtube.com/watch?v=YL7AZk3o0g4)
 
 <br>
 
